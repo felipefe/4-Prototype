@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\bin\Debug\net6.0\4-Prototype.exe
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\bin\Debug\net6.0\4-Prototype.deps.json
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\bin\Debug\net6.0\4-Prototype.runtimeconfig.json
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\bin\Debug\net6.0\4-Prototype.dll
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\bin\Debug\net6.0\4-Prototype.pdb
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.AssemblyInfo.cs
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.dll
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\refint\4-Prototype.dll
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.pdb
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\4-Prototype.genruntimeconfig.cache
+D:\Documents\VSCode\Design Pattern Macorati\4-Prototype\obj\Debug\net6.0\ref\4-Prototype.dll
